@@ -5,12 +5,6 @@ Welcome to "Harmony in the Depths," a project where we explore the world of unde
 
 ## Project Workflow
 
-<style> .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;} 
-</style>
 <img src="Images/Workflow.png" class="center">
 
 ## Project Structure
