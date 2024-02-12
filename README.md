@@ -32,7 +32,7 @@ The Logistic Regression model achieves an accuracy of approximately 83.42% on th
 ## How to Use
 1. **Clone the Repository:** 
    ```bash
-   git clone https://github.com/your-username/sonar-symphony.git
+   git clone https://github.com/GaurabKundu1/Harmony-in-the-Depths-A-SONAR-Symphony-of-Rock-vs.-Mine-Prediction.git
    ```
 
 2. **Install Dependencies:**
@@ -42,7 +42,7 @@ The Logistic Regression model achieves an accuracy of approximately 83.42% on th
 
 3. **Run the Jupyter Notebook:**
    ```bash
-   jupyter notebook SONAR_Symphony.ipynb
+   jupyter notebook Rock Vs Mine Prediction.ipynb
    ```
 
 4. **Explore and Experiment:**
