@@ -3,6 +3,10 @@
 ## Project Overview
 Welcome to "Harmony in the Depths," a project where we explore the world of underwater SONAR data to distinguish between rocks and mines. This project utilizes machine learning, specifically Logistic Regression, to build a predictive model that can classify underwater objects based on SONAR signals.
 
+## Project Workflow
+
+<img src="Images/Workflow.png">
+
 ## Project Structure
 
 ### 1. Importing Dependencies
